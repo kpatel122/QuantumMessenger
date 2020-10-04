@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+AppServer/Python/FCMServer/config.txt
+AppServer/Python/FCMServer/FCMServer.sln
+AppServer/Python/FCMServer/staysafeandroid-firebase-adminsdk-cb11c-043cc096db.json
+AppServer/Python/FCMServer/FCMServer.pyproj
